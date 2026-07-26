@@ -43,6 +43,41 @@ Streamlit Dashboard
 5. Визуализация результатов в Dashboard
 
 
+## 📈 Key Business Metrics
+
+В проекте реализован анализ основных бизнес-показателей:
+
+### Sales Metrics
+
+- **Revenue** — общая выручка
+- **Orders Count** — количество заказов
+- **Average Order Value (AOV)** — средний чек
+- **Monthly Sales Growth** — динамика продаж по месяцам
+
+
+### Customer Metrics
+
+- **Customer Lifetime Value (CLV)** — оценка ценности клиента
+- **RFM Segmentation** — разделение клиентов по активности:
+  - Recency — давность покупки
+  - Frequency — частота покупок
+  - Monetary — сумма покупок
+
+
+### Retention Metrics
+
+- **Cohort Analysis**
+- **Customer Retention Rate**
+- Анализ поведения клиентов после первой покупки
+
+
+### Product Metrics
+
+- топ товаров по выручке
+- анализ количества продаж
+- выявление наиболее прибыльных продуктов
+
+
 ## 🚀 Возможности
 
 

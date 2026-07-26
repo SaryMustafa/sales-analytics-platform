@@ -125,6 +125,7 @@ python database/load_data.py
 
 ▶️ Запуск Dashboard
 streamlit run dashboard/app.py
+```
 
 После запуска:
 http://localhost:8501

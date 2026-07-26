@@ -167,3 +167,6 @@ Cohort analysis
 ### Customer Analytics
 
 ![Analytics](https://raw.githubusercontent.com/SaryMustafa/sales-analytics-platform/main/images/analytics.png)
+
+
+

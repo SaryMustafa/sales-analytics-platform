@@ -17,6 +17,32 @@
 - визуализация результатов в Streamlit Dashboard
 
 
+## 🏗 Architecture
+
+Проект реализует полный аналитический pipeline:
+CSV Data
+|
+↓
+PostgreSQL Database
+|
+↓
+SQL Analytics Layer
+|
+↓
+Python Processing
+|
+↓
+Streamlit Dashboard
+
+### Data Flow:
+
+1. Генерация и загрузка данных в PostgreSQL
+2. Подготовка аналитических SQL-запросов
+3. Расчёт бизнес-метрик
+4. Анализ клиентов и товаров
+5. Визуализация результатов в Dashboard
+
+
 ## 🚀 Возможности
 
 

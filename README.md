@@ -1,5 +1,9 @@
 # 📊 Sales Analytics Platform
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 Аналитическая платформа для анализа продаж интернет-магазина.
 
 Проект реализует полный цикл работы Data Analyst:

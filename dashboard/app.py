@@ -4,7 +4,6 @@ import psycopg2
 import plotly.express as px
 
 
-# =====================
 # DATABASE CONNECTION
 # =====================
 

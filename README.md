@@ -285,3 +285,41 @@ Cohort analysis
 
 
 
+## 📊 Dashboard Features
+
+The project includes:
+
+- Revenue KPI analysis
+- Monthly sales dynamics
+- Top customers analysis
+- Product performance analysis
+- Customer retention analysis
+
+
+## 🛠 Tech Stack
+
+- PostgreSQL
+- SQL
+- Python
+- Pandas
+- Plotly
+- Streamlit
+
+
+## 📌 Business Insights
+
+Key analytical areas:
+
+- Identifying top revenue-generating customers
+- Finding best-selling products
+- Tracking sales trends
+- Understanding customer retention
+- Segmenting customers using RFM analysis
+
+
+## 🚀 How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt

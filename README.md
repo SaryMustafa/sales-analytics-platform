@@ -151,19 +151,19 @@ Cohort analysis
 оценивать удержание пользователей
 принимать решения на основе данных
 
+
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/SaryMustafa/sales-analytics-platform/main/images/dashboard.png)
 
 
 ### Products Analytics
 
-![Products](images/products.png)
+![Products](https://raw.githubusercontent.com/SaryMustafa/sales-analytics-platform/main/images/products.png)
 
 
 ### Customer Analytics
 
-![Analytics](images/analytics.png)
-
+![Analytics](https://raw.githubusercontent.com/SaryMustafa/sales-analytics-platform/main/images/analytics.png)

@@ -110,19 +110,25 @@ source .venv/bin/activate
 
 Установка зависимостей:
 pip install -r requirements.txt
+
 🗄 База данных
 Используется PostgreSQL.
 Создание базы:
 
 CREATE DATABASE sales_analytics;
 Создание таблиц:
+
 psql sales_analytics < database/schema.sql
 Загрузка данных:
+
 python database/load_data.py
+
 ▶️ Запуск Dashboard
 streamlit run dashboard/app.py
+
 После запуска:
 http://localhost:8501
+
 🛠 Использованные технологии
 Python
 Pandas
@@ -137,10 +143,7 @@ Revenue analysis
 Customer segmentation
 RFM analysis
 Cohort analysis
-📸 Dashboard Preview
-Main Dashboard
-Products Analytics
-Customer Analytics
+
 🎯 Цель проекта
 Создание аналитической платформы, которая помогает бизнесу:
 анализировать продажи
@@ -148,4 +151,19 @@ Customer Analytics
 оценивать удержание пользователей
 принимать решения на основе данных
 
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](images/dashboard.png)
+
+
+### Products Analytics
+
+![Products](images/products.png)
+
+
+### Customer Analytics
+
+![Analytics](images/analytics.png)
 
